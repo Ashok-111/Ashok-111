@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **ashokdhanesh444@gmail.com**
 
-- ⚡ Fun fact **On average, a human blinks 20 times per minute, but using a computer reduces it to 7.**
+- ⚡ Fun fact **
+- On average, a human blinks 20 times per minute, but using a computer reduces it to 7.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
