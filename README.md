@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashok-111&label=Profile%20views&color=0e75b6&style=flat" alt="ashok-111" /> </p>
 
-- 🔭 I’m currently working on **Amazon clone web app.**
+- 🔭 I’m currently in my second year **of EnTC angineering**
 
 - 🌱 I’m currently learning **Full stack web developement.**
 
